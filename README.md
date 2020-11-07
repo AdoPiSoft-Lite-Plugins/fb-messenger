@@ -1,2 +1,7 @@
-# fb-messenger
-FB Messenger plugin for Adopisoft. You can customize the messenger icon display left or right. And you can hide it if user has no session or you can show it even if no session just add the Facebook's messenger hosts to Interface "Allowed Hosts"
+1.0.1
+===================
+* You can set your Facebook page id
+  - Go to plugin settings in the "Plugins" sidebar
+* You have option to hide the messenger icon when the user has no running session
+* You also have option to allow messenger access for users with no running session
+  - Go to network -> Interfaces page and add "Allowed Host"

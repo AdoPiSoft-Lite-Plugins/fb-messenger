@@ -1,3 +1,8 @@
+1.0.2
+===================
+* Fix error causing the icon not showing
+* Compatibility update for Ado v5
+
 1.0.1
 ===================
 * You can set your Facebook page id
